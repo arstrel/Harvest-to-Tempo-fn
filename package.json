@@ -1,0 +1,13 @@
+{
+  "name": "Harvest-to-Tempo",
+  "version": "1.0.0",
+  "description": "Harvest-to-Tempo migration tool",
+  "main": "index.js",
+  "author": "Artem <arstrel@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.26.0",
+    "lodash": "^4.17.21"
+  }
+}
